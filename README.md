@@ -18,6 +18,8 @@
 
 <hr />
 
+*im just putting here as a disclaimer that this forks contributions was made with ai, i dont like ai in prod, nor anywhere live, im merely forking to introduce screensharing stuff for a personal bot, all credit for this amazing project is owed to the original contributers who arent pathetic like me, and dont use ai, thats it thats all. if you decide to use my fork, i dont know why, the main project is probably so much better*
+
 D++ is a lightweight and efficient library for **Discord** written in **modern C++**, covering as much of the API specification as possible with an **incredibly small memory footprint** even when caching large amounts of data.
 
 ### Library Features
